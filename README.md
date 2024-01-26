@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](Screenshot 2024-01-26 at 02-05-57 Frontend Mentor Social links profile.png)
+![Screenshot](https://github.com/TorCanHack/Social-links-profile/blob/main/Screenshot%202024-01-26%20at%2002-05-57%20Frontend%20Mentor%20Social%20links%20profile.png)
 
 
 
