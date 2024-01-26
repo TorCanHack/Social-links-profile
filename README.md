@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Screenshot](Screenshot 2024-01-26 at 02-05-57 Frontend Mentor Social links profile.png)
 
 
 
