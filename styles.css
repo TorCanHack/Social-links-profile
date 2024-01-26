@@ -39,8 +39,8 @@ button:hover {
     cursor: pointer;
 }
 
-button:active {
-    background-color: #000c66;
+a:active {
+    color: #000c66;
 }
 
 
